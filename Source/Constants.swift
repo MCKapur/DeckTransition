@@ -17,7 +17,7 @@ struct Constants {
     static let cornerRadius: CGFloat = 8
     
     /// The alpha value of the presented view controller's view
-    static let alphaForPresentingView: CGFloat = 0.35
+    static let alphaForPresentingView: CGFloat = 0.45
     
     /// As best as I can tell using my iPhone and a bunch of iOS UI templates I
     /// came across online, 8 points is the distance between the top edges of
